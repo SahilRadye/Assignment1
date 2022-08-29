@@ -1,0 +1,11 @@
+C:\dot Net\MathsLibrary\MathsTestProject\bin\Debug\MathsTestProject.exe.config
+C:\dot Net\MathsLibrary\MathsTestProject\bin\Debug\MathsTestProject.exe
+C:\dot Net\MathsLibrary\MathsTestProject\bin\Debug\MathsTestProject.pdb
+C:\dot Net\MathsLibrary\MathsTestProject\bin\Debug\MathsLibrary.dll
+C:\dot Net\MathsLibrary\MathsTestProject\bin\Debug\MathsLibrary.pdb
+C:\dot Net\MathsLibrary\MathsTestProject\obj\Debug\MathsTestProject.csproj.AssemblyReference.cache
+C:\dot Net\MathsLibrary\MathsTestProject\obj\Debug\MathsTestProject.csproj.SuggestedBindingRedirects.cache
+C:\dot Net\MathsLibrary\MathsTestProject\obj\Debug\MathsTestProject.csproj.CoreCompileInputs.cache
+C:\dot Net\MathsLibrary\MathsTestProject\obj\Debug\MathsTestProject.csproj.CopyComplete
+C:\dot Net\MathsLibrary\MathsTestProject\obj\Debug\MathsTestProject.exe
+C:\dot Net\MathsLibrary\MathsTestProject\obj\Debug\MathsTestProject.pdb
