@@ -1,0 +1,8 @@
+C:\dot Net\OOPsDemoApp\OOPsDemoApp\bin\Debug\OOPsDemoApp.exe.config
+C:\dot Net\OOPsDemoApp\OOPsDemoApp\bin\Debug\OOPsDemoApp.exe
+C:\dot Net\OOPsDemoApp\OOPsDemoApp\bin\Debug\OOPsDemoApp.pdb
+C:\dot Net\OOPsDemoApp\OOPsDemoApp\obj\Debug\OOPsDemoApp.csproj.AssemblyReference.cache
+C:\dot Net\OOPsDemoApp\OOPsDemoApp\obj\Debug\OOPsDemoApp.csproj.SuggestedBindingRedirects.cache
+C:\dot Net\OOPsDemoApp\OOPsDemoApp\obj\Debug\OOPsDemoApp.csproj.CoreCompileInputs.cache
+C:\dot Net\OOPsDemoApp\OOPsDemoApp\obj\Debug\OOPsDemoApp.exe
+C:\dot Net\OOPsDemoApp\OOPsDemoApp\obj\Debug\OOPsDemoApp.pdb
