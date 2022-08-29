@@ -1,0 +1,6 @@
+C:\dot Net\PersonalInfoLib\PersonalInfoLib\bin\Debug\PersonalInfoLib.dll
+C:\dot Net\PersonalInfoLib\PersonalInfoLib\bin\Debug\PersonalInfoLib.pdb
+C:\dot Net\PersonalInfoLib\PersonalInfoLib\obj\Debug\PersonalInfoLib.csproj.AssemblyReference.cache
+C:\dot Net\PersonalInfoLib\PersonalInfoLib\obj\Debug\PersonalInfoLib.csproj.CoreCompileInputs.cache
+C:\dot Net\PersonalInfoLib\PersonalInfoLib\obj\Debug\PersonalInfoLib.dll
+C:\dot Net\PersonalInfoLib\PersonalInfoLib\obj\Debug\PersonalInfoLib.pdb

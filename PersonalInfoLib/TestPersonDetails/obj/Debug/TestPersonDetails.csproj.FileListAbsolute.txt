@@ -1,0 +1,11 @@
+C:\dot Net\PersonalInfoLib\TestPersonDetails\bin\Debug\TestPersonDetails.exe.config
+C:\dot Net\PersonalInfoLib\TestPersonDetails\bin\Debug\TestPersonDetails.exe
+C:\dot Net\PersonalInfoLib\TestPersonDetails\bin\Debug\TestPersonDetails.pdb
+C:\dot Net\PersonalInfoLib\TestPersonDetails\bin\Debug\PersonalInfoLib.dll
+C:\dot Net\PersonalInfoLib\TestPersonDetails\bin\Debug\PersonalInfoLib.pdb
+C:\dot Net\PersonalInfoLib\TestPersonDetails\obj\Debug\TestPersonDetails.csproj.AssemblyReference.cache
+C:\dot Net\PersonalInfoLib\TestPersonDetails\obj\Debug\TestPersonDetails.csproj.SuggestedBindingRedirects.cache
+C:\dot Net\PersonalInfoLib\TestPersonDetails\obj\Debug\TestPersonDetails.csproj.CoreCompileInputs.cache
+C:\dot Net\PersonalInfoLib\TestPersonDetails\obj\Debug\TestPersonDetails.csproj.CopyComplete
+C:\dot Net\PersonalInfoLib\TestPersonDetails\obj\Debug\TestPersonDetails.exe
+C:\dot Net\PersonalInfoLib\TestPersonDetails\obj\Debug\TestPersonDetails.pdb
