@@ -1,0 +1,11 @@
+C:\dot Net\ABCCorp\HRApp\bin\Debug\HRApp.exe.config
+C:\dot Net\ABCCorp\HRApp\bin\Debug\HRApp.exe
+C:\dot Net\ABCCorp\HRApp\bin\Debug\HRApp.pdb
+C:\dot Net\ABCCorp\HRApp\obj\Debug\HRApp.csproj.AssemblyReference.cache
+C:\dot Net\ABCCorp\HRApp\obj\Debug\HRApp.csproj.SuggestedBindingRedirects.cache
+C:\dot Net\ABCCorp\HRApp\obj\Debug\HRApp.csproj.CoreCompileInputs.cache
+C:\dot Net\ABCCorp\HRApp\obj\Debug\HRApp.exe
+C:\dot Net\ABCCorp\HRApp\obj\Debug\HRApp.pdb
+C:\dot Net\ABCCorp\HRApp\bin\Debug\HRLib.dll
+C:\dot Net\ABCCorp\HRApp\bin\Debug\HRLib.pdb
+C:\dot Net\ABCCorp\HRApp\obj\Debug\HRApp.csproj.CopyComplete

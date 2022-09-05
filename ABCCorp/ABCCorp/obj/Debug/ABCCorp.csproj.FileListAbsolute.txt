@@ -1,0 +1,14 @@
+C:\dot Net\ABCCorp\ABCCorp\obj\Debug\ABCCorp.csproj.AssemblyReference.cache
+C:\dot Net\ABCCorp\ABCCorp\obj\Debug\ABCCorp.csproj.SuggestedBindingRedirects.cache
+C:\dot Net\ABCCorp\ABCCorp\obj\Debug\ABCCorp.csproj.CoreCompileInputs.cache
+C:\dot Net\ABCCorp\ABCCorp\bin\Debug\ABCCorp.exe.config
+C:\dot Net\ABCCorp\ABCCorp\bin\Debug\ABCCorp.exe
+C:\dot Net\ABCCorp\ABCCorp\bin\Debug\ABCCorp.pdb
+C:\dot Net\ABCCorp\ABCCorp\bin\Debug\HRLib.dll
+C:\dot Net\ABCCorp\ABCCorp\bin\Debug\HRLib.pdb
+C:\dot Net\ABCCorp\ABCCorp\obj\Debug\ABCCorp.csproj.CopyComplete
+C:\dot Net\ABCCorp\ABCCorp\obj\Debug\ABCCorp.exe
+C:\dot Net\ABCCorp\ABCCorp\obj\Debug\ABCCorp.pdb
+C:\dot Net\ABCCorp\ABCCorp\bin\Debug\HRApp.exe
+C:\dot Net\ABCCorp\ABCCorp\bin\Debug\HRApp.pdb
+C:\dot Net\ABCCorp\ABCCorp\bin\Debug\HRApp.exe.config
