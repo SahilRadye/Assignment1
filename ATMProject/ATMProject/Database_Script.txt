@@ -1,0 +1,45 @@
+﻿create database ATM;
+
+use ATM;
+
+
+show tables;
+
+Create Table User1
+		(CardNo bigint not null primary key,
+         Name VARCHAR(13) not null,
+         Address VARCHAR(50) not null,
+         ContactNo bigint not null,
+         PinNo int not null,
+         Balance decimal(10,2) not null,
+         AccNo bigint unique key);
+        
+INSERT INTO User1 VALUES (1111222233334401, 'Sahil Radye' ,'Thane', 7898556525, 1001 , 25000 , 111122223333001);
+INSERT INTO User1 VALUES (1111222233334402, 'Jayesh Patil' ,'Airoli', 9874561232, 1002 , 30000 , 111122223333002);
+INSERT INTO User1 VALUES (1111222233334403, 'Omkar Shelke' ,'Santacruz', 7895642323, 1003 , 22000 , 111122223333003);
+INSERT INTO User1 VALUES (1111222233334404, 'Chinmay Mule' ,'Kalyan', 5689924568, 1004 , 15000 , 111122223333004);
+INSERT INTO User1 VALUES (1111222233334405, 'Ricky Mahtre' ,'Vasai', 7985461235, 1005 , 8000 , 111122223333005);
+
+CREATE TABLE Transaction
+       (Transaction_Id bigint NOT NULL  PRIMARY KEY,
+        Trans_Type VARCHAR(10) NOT NULL,
+        Trans_Date DateTime,
+		Amount decimal(10,2) not null,
+        CardNo bigint not null,
+        foreign key (CardNo) references User1(CardNo)
+        );
+        
+    
+INSERT INTO Transaction VALUES (225698846503, 'Deposit' , '2022-08-08' , 5000 , 1111222233334401);    
+INSERT INTO Transaction VALUES (225698846504, 'Withdraw' , '2022-09-09' , 4000 , 1111222233334401); 
+INSERT INTO Transaction VALUES (225698846501, 'Withdraw' , '2022-09-09' , 8000 , 1111222233334402);    
+INSERT INTO Transaction VALUES (225698846502, 'Withdraw' , '2022-09-09' , 12000 , 1111222233334402);  
+INSERT INTO Transaction VALUES (225698846508, 'Deposit' , '2022-09-09' , 1200 , 1111222233334402);  
+INSERT INTO Transaction VALUES (225698846509, 'Withdraw' , '2022-06-06' , 1200 , 1111222233334403);     
+INSERT INTO Transaction VALUES (225698846505, 'Withdraw' , '2022-07-07' , 1200 , 1111222233334404);    
+INSERT INTO Transaction VALUES (225698846506, 'Deposit' , '2022-09-09' , 3000 , 1111222233334404);    
+INSERT INTO Transaction VALUES (225698846507, 'Withdraw' , '2022-09-09' , 7000 , 1111222233334405);    
+INSERT INTO Transaction VALUES (225698846510, 'Deposit' , '2022-09-09' , 4000 , 1111222233334405);    
+    
+select * from User1;
+select * from Transaction;
