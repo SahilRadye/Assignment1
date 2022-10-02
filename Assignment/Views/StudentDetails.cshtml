@@ -1,0 +1,70 @@
+﻿@model MVCDemoApp_WGS.Models.Student
+
+@{
+    ViewBag.Title = "StudentDetails";
+    var courses = new List<string>() { "Engineering", "Doctor", "Architecture", "Mathematics", "Computer Science" };
+}
+
+<h2>StudentDetails</h2>
+
+@using (Html.BeginForm("StudentFeedback", "Home", FormMethod.Post))
+{
+    <span class="text-danger">@Html.ValidationSummary()</span>
+    <table class="table table-striped">
+        <tr>
+            <td>@Html.LabelFor(s => s.StudentName)</td>
+            <td>
+                @Html.TextBoxFor(s => s.StudentName, new { @class = "form-control" })
+                <span class="text-danger">@Html.ValidationMessageFor(s => s.StudentName)</span>
+            </td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(s => s.Gender)</td>
+            <td>
+                <span class="col-ml-15px">
+                    @Html.RadioButtonFor(s => s.Gender, "Male")
+                    Male
+                    @Html.RadioButtonFor(s => s.Gender, "Female")
+                    Female
+                </span>
+                <span class="text-danger">@Html.ValidationMessageFor(s => s.Gender)</span>
+            </td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(s => s.Course)</td>
+            <td>
+                @Html.DropDownListFor(s => s.Course, new SelectList(courses), "-- please select --")
+                <span class="text-danger">@Html.ValidationMessageFor(s => s.Course)</span>
+            </td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(s => s.Rating)</td>
+            <td>
+                <span class="mx-auto">
+                    @Html.RadioButtonFor(s => s.Rating, "Excellent")
+                    Excellent
+                    @Html.RadioButtonFor(s => s.Rating, "Good")
+                    Good
+                    @Html.RadioButtonFor(s => s.Rating, "Average")
+                    Average
+                    @Html.RadioButtonFor(s => s.Rating, "Poor")
+                    Poor
+                </span>
+                <span class="text-danger">@Html.ValidationMessageFor(s => s.Rating)</span>
+            </td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(e => e.Suggestion)</td>
+            <td>
+                @Html.TextAreaFor(e => e.Suggestion, new { @class = "form-control" })
+                <span class="text-danger">@Html.ValidationMessageFor(s => s.Suggestion)</span>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center">
+                <input type="submit" class="btn btn-primary" />
+            </td>
+        </tr>
+    </table>
+}
+
